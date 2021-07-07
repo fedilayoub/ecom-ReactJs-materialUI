@@ -17,6 +17,13 @@ export default makeStyles((theme) => ({
     display: 'flex',
     textDecoration: 'none',
   },
+  navTitle: {
+    flexGrow: 1,
+    alignItems: 'center',
+    display: 'flex',
+    textDecoration: 'none',
+    fontWeight:'bold' ,
+  },
   image: {
     marginRight: '10px',
   },
