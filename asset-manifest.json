@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/ecom-ReactJs-materialUI/static/js/main.3ba42084.chunk.js",
+    "main.js.map": "/ecom-ReactJs-materialUI/static/js/main.3ba42084.chunk.js.map",
+    "runtime-main.js": "/ecom-ReactJs-materialUI/static/js/runtime-main.ba66f6ac.js",
+    "runtime-main.js.map": "/ecom-ReactJs-materialUI/static/js/runtime-main.ba66f6ac.js.map",
+    "static/js/2.d5a0d794.chunk.js": "/ecom-ReactJs-materialUI/static/js/2.d5a0d794.chunk.js",
+    "static/js/2.d5a0d794.chunk.js.map": "/ecom-ReactJs-materialUI/static/js/2.d5a0d794.chunk.js.map",
+    "index.html": "/ecom-ReactJs-materialUI/index.html",
+    "static/js/2.d5a0d794.chunk.js.LICENSE.txt": "/ecom-ReactJs-materialUI/static/js/2.d5a0d794.chunk.js.LICENSE.txt",
+    "static/media/gaming_logo.bf4b98c7.png": "/ecom-ReactJs-materialUI/static/media/gaming_logo.bf4b98c7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba66f6ac.js",
+    "static/js/2.d5a0d794.chunk.js",
+    "static/js/main.3ba42084.chunk.js"
+  ]
+}
